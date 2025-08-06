@@ -2,8 +2,8 @@
 <h3 align="center">Software Engineer 💻 | Math Animator 🎥 | AI Researcher 🤖</h3>
 
 <p align="center">
-  <a href="https://github.com/TopVirusMinus">
-    <img src="https://komarev.com/ghpvc/?username=TopVirusMinus" alt="page views" />
+  <a href="https://github.com/marzzuki">
+    <img src="https://komarev.com/ghpvc/?username=marzzuki" alt="page views" />
   </a>
   <a href="https://stackoverflow.com/users/13020989">
     <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/13020989?color=orange&label=reputation&logo=stackoverflow" />
@@ -11,8 +11,8 @@
   <a href="https://www.youtube.com/channel/UC8giOecbRtB_szJMiVu_mAQ">
     <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UC8giOecbRtB_szJMiVu_mAQ?style=flat&logo=youtube" />
   </a>
-  <a href="https://github.com/TopVirusMinus?tab=stars">
-    <img alt="GitHub Stars" src="https://img.shields.io/github/stars/TopVirusMinus?style=flat&logo=github" />
+  <a href="https://github.com/marzzuki?tab=stars">
+    <img alt="GitHub Stars" src="https://img.shields.io/github/stars/marzzuki?style=flat&logo=github" />
   </a>
 </p>
 
@@ -66,10 +66,10 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/TopVirusMinus">
-    <img alt="TopVirusMinus's GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=TopVirusMinus&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=57F287&icon_color=57F287" height="192px"/>
+  <a href="https://github.com/marzzuki">
+    <img alt="marzzuki's GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=marzzuki&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=57F287&icon_color=57F287" height="192px"/>
   </a>
-  <a href="https://github.com/TopVirusMinus">
-    <img alt="TopVirusMinus's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=TopVirusMinus&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=57F287&icon_color=57F287&hide=Jupyter%20Notebook,Roff" height="192px"/>
+  <a href="https://github.com/marzzuki">
+    <img alt="marzzuki's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=marzzuki&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=57F287&icon_color=57F287&hide=Jupyter%20Notebook,Roff" height="192px"/>
   </a>
 </div>
