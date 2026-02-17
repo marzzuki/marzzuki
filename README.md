@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mustafa Marzouk 👋</h1>
-<h3 align="center">Software Engineer 💻 | Math Animator 🎥 | AI Researcher 🤖</h3>
+<h3 align="center">Full Stack AI Engineer / Researcher 💻 | Manim Animator 🎥</h3>
 
 <p align="center">
   <a href="https://github.com/marzzuki">
