@@ -49,7 +49,7 @@
 ---
 
 ### 🛠 Tech Stack
-
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ollama,huggingface,llamaindex,langchain,qdrant,cuda,n8n&theme=dark)
 <!-- Languages -->
 [![My Skills](https://skillicons.dev/icons?i=python,ts,cs,latex)](https://skillicons.dev)  
 <!-- Backend & Infra -->
@@ -57,7 +57,7 @@
 <!-- Frontend -->
 [![My Skills](https://skillicons.dev/icons?i=svelte,react,nextjs,tailwind,jest)](https://skillicons.dev)  
 <!-- Tools & Monitoring -->
-[![My Skills](https://skillicons.dev/icons?i=mysql,postman,sentry)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,postman,sentry)](https://skillicons.dev)  
 <!-- DevOps & CI/CD -->
 [![My Skills](https://skillicons.dev/icons?i=linux,aws,docker,git,githubactions)](https://skillicons.dev)
 
