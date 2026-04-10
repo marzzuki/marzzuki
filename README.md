@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mustafa Marzouk 👋</h1>
-<h3 align="center">Full Stack AI Engineer / Researcher 💻 | Manim Animator 🎥</h3>
+<h3 align="center">Full Stack AI Engineer / IEEE Researcher 💻 | Manim Animator 🎥</h3>
 
 <p align="center">
   <a href="https://github.com/marzzuki">
@@ -19,7 +19,7 @@
 ---
 
 ### ℹ️ About Me
-- 💼 Software Engineer at [Microdoc](https://microdoc.io)
+- 💼 Full Stack AI Engineer at [Vconnct](https://www.linkedin.com/company/vconnct/posts/?feedView=all)
 - 🎓 BSc in Computer Science from Greenwich (UK) & MSA University (Egypt)
 - 🧪  I’ve published a few AI research papers – check them out on [Google Scholar](https://scholar.google.com/citations?user=f9B4b2IAAAAJ&hl=en)
 - 🧮 I create **math animations** using [Manim](https://drive.google.com/drive/u/1/folders/1IzX6IHn7Mz0Xbd-aSFxgtrCVIFOEuKSc)  
