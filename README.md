@@ -25,7 +25,7 @@
 - 🧮 I create **math animations** using [Manim](https://drive.google.com/drive/u/1/folders/1IzX6IHn7Mz0Xbd-aSFxgtrCVIFOEuKSc)  
 - 📝 I occasionally write tech articles on [Medium](https://medium.com/@mwmma5000)  
 - 📫 Reach me anytime at **mustafa.w.marzouk@gmail.com**  
-- 📄 [Check out my resume](https://drive.google.com/file/d/19G9ESmBAP8JRr8dXX1Y0L6Z4wiUUb2Cw/view?usp=sharing) if you'd like to know more
+- 📄 [Resume](https://drive.google.com/file/d/13cxCJt7uON7malhv5YOGfSuKx-RYG2GR/view) if you'd like to know more
 
 ---
 
