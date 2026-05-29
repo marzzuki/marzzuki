@@ -20,7 +20,7 @@
 
 ### ℹ️ About Me
 - 💼 Full Stack AI Engineer at [Vconnct](https://www.linkedin.com/company/vconnct/posts/?feedView=all)
-- 🎓 BSc (Hons) in Computer Science at University of Greenwich
+- 🎓 BSc (Hons) Computer Science at University of Greenwich
 - 🧪  I’ve published a few AI research papers – check them out on [Google Scholar](https://scholar.google.com/citations?user=f9B4b2IAAAAJ&hl=en)
 - 🧮 I create **math animations** using [Manim](https://drive.google.com/drive/u/1/folders/1IzX6IHn7Mz0Xbd-aSFxgtrCVIFOEuKSc)  
 - 📝 I occasionally write tech articles on [Medium](https://medium.com/@mwmma5000)  
